@@ -1,1 +1,4 @@
-Day 1: Starting to learn Git.
+---
+title: "Welcome to my blog"
+date: 2019-01-20
+---
