@@ -1,4 +1,4 @@
 ---
-title: "Welcome to my blog"
-date: 2019-01-20
+title: "Getting Started"
+date: 2022-02-14
 ---
